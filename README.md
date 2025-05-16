@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kasumi-cmd
 - 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning COBOL
+- 🐦‍🔥 malicious-development  
 - 💞️ I’m looking to collaborate on everything!
 
 <!---
